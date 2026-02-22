@@ -1,20 +1,4 @@
-<a href="https://cookbook.openai.com" target="_blank">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="/images/openai-cookbook-white.png" style="max-width: 100%; width: 400px; margin-bottom: 20px">
-    <img alt="OpenAI Cookbook Logo" src="/images/openai-cookbook.png" width="400px">
-  </picture>
-</a>
-
-<h3></h3>
- 
-> Navigate at [cookbook.openai.com](https://cookbook.openai.com)
-
-Example code and guides for accomplishing common tasks with the [OpenAI API](https://platform.openai.com/docs/introduction). Set an environment variable called `OPENAI_API_KEY` with your API key. Alternatively, in most IDEs such as Visual Studio Code, you can create an `.env` file at the root of your repo containing `OPENAI_API_KEY=<your API key>`, which will be picked up by the notebooks.
-
-Most code examples are written in Python, though the concepts can be applied in any language.
-
-For other useful tools, guides and courses, check out these [related resources from around the web](https://cookbook.openai.com/related_resources).
-
-## License
-
-MIT License
+My Developer Commit-Signatur: 
+Autorin, Urheberin; Ich Frau Isabel Schöps geb. Thiel
+Zeitstempel der Eintragung: Sonntag den 2026-02-22 um 18:26UhrCEST_Mitteleuropäische, 
+Ort, Wohnung: Isabel Schöps (Thiel), 1.Etage, Whg. 13., Hütergasse 4, D-99084 Erfurt, Thüringen, Deutschland. 
